@@ -43,14 +43,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _DepthPower: 30
-    - _FoamDistance: 0
-    - _FoamSpeed: 0
+    - _FoamDistance: 1
+    - _FoamSpeed: 0.1
     - _Fresnel: 2.24
     - _NormalPower: 0.3
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
+    - _FoamColor: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 0}
     - _FoamTiling: {r: 0, g: 0, b: 0, a: 0}
     - _FogColor: {r: 0.06256675, g: 0.08977806, b: 0.3584906, a: 1}
     - _NormalTiling: {r: 5, g: 5, b: 0, a: 0}
