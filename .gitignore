@@ -12,3 +12,7 @@ CustomPortal/CustomPortal.sln
 CustomPortal/Assembly-CSharp-Editor.csproj
 
 CustomPortal/Temp/
+
+CustomPortal/obj/
+
+CustomPortal/.idea/
