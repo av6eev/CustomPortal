@@ -61,8 +61,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
+    - _BlendColor: {r: 0.2235294, g: 0.4901961, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _FrenelColor: {r: 0, g: 0.304348, b: 1, a: 0}
-    - _FresnelColor: {r: 1, g: 0.90511477, b: 0, a: 1}
-    - _PortalColor: {r: 0, g: 0, b: 0, a: 0}
+    - _FresnelColor: {r: 0.08495018, g: 0.5119615, b: 0.7830189, a: 1}
+    - _PortalColor: {r: 0, g: 0.100815535, b: 1, a: 0}
   m_BuildTextureStacks: []
